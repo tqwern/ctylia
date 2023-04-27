@@ -1,0 +1,200 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Open Sans";
+  background-color: #F9FDFF;
+}
+
+.wrapper {
+  padding-left: 366px;
+  margin: 0 auto;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+}
+
+.glav {
+    font-weight: 400;
+}
+
+a {
+    text-decoration: none;
+    font-weight: 400;
+}
+
+.header_text {
+  margin: 90px 0px 48px 60px;
+  font-weight: 400;
+  font-size: 15px;
+  color: black;
+}
+
+.header_img {
+    margin-top: 90px;
+    margin-right: 138px;
+}
+
+.header_zag {
+    display: flex;
+}
+
+.header_dizain {
+    margin-top: 135px;
+    font-size: 57px;
+    font-weight: 700;
+    width: 200px;
+}
+
+.header_kreslo {
+    margin-top: 35px;
+}
+
+.header_sell {
+    display: flex;
+}
+
+.header_380 {
+    margin-top: 20px;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.header_240 {
+    margin-top: 10px;
+    margin-left: 22px;
+    font-weight: 600;
+    font-size: 30px;
+}
+
+.link_readg2 {
+  background-color: #020202;
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  font-weight: 400;
+  padding: 15px 70px;
+  text-decoration: none;
+}
+.dsds2 {
+  margin-top: 45px;
+  padding-bottom: 150px;
+}
+
+.header_right {
+    margin-top: 86px;
+}
+
+.lupa {
+    margin-right: 20px;
+    margin-top: 86px;
+}
+
+.header_1 {
+    display: flex;
+}
+
+.header_lk {
+    background-color: #FCEAE8;
+    width: 500px;
+    height: 751px;
+}
+
+.item {
+    margin-bottom: 198px;
+}
+
+.header_number {
+    display: inline;
+}
+
+.items {
+    margin-bottom: 20px;
+    font-weight: 400;
+    color: #0000004D;
+    font-size: 20px;
+}
+
+.items:hover {
+    border-right: 3px solid black;
+    font-size: 40px;
+    color: black;
+}
+
+.otmena {
+    width: 60px;
+}
+
+main {
+    margin-top: 120px;
+}
+
+.new_photo {
+    display: flex;
+}
+
+.new {
+    margin-top: 140px;
+    font-weight: 700;
+    font-size: 28px;
+    margin-right: 157px;
+    height: 50px;
+    border-bottom: 1px solid black;
+}
+
+.chair {
+    margin-top: 25px;
+}
+
+.main_chair {
+    background-color: white;
+    height: 289px;
+    width: 270px;
+    text-align: center;
+    font-weight: 400;
+}
+
+.main_chair2 {
+    display: flex;
+    margin-top: 37px;
+    font-weight: 400;
+}
+
+.lampa {
+    background-color: white;
+    text-align: center;
+}
+
+.stol {
+    background-color: #FAECE9;
+    margin-left: 30px;
+    text-align: center;
+    height: 285px;
+}
+
+.img_right {
+    position: absolute;
+    margin-left: 600px;
+    top: 893px;
+    width: 570px;
+    height: 614px;
+    background-color: white;
+    text-align: center;
+    font-weight: 400;
+}  
+
+.white_chocolate {
+    margin-top: 30px;
+    font-size: 20px;
+}
+
+.kipit {
+    width: 815px;
+    height: 545px;
+    background: #FAECE9;
+}
+
+
