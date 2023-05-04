@@ -130,13 +130,13 @@ nav {
     letter-spacing: 0.05em;
 }
 
-.number  {
+.number li {
     margin-bottom: 20px;
     color: #0000004D;
     font-size: 20px;
 }
 
-.items:hover {
+.number li:hover {
     border-right: 3px solid black;
     font-size: 40px;
     color: black;
